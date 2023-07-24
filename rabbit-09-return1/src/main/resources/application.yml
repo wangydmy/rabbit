@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: return-learn1
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+    publisher-returns: true #开启return模式
+my:
+  exchangeName: exchange.return.a
+  queueName: queue.return.a

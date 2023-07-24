@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: dlx-learn2
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+my:
+  exchangeNormalName: exchange.normal.b
+  queueNormalName: queue.normal.b
+  exchangeDlxName: exchange.dlx.b
+  queueDlxName: queue.dlx.b

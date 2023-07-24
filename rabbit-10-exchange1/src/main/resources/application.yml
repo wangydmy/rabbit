@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: exchange-learn1
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+my:
+  exchangeName: exchange.properties.a
+  queueName: queue.exchange.a

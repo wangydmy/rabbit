@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: direct-exchange
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+my:
+  exchangeName: exchange.direct
+  queueAName: queue.direct.a
+  queueBName: queue.direct.b

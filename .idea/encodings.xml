@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rabbit-05-TTL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-05-TTL2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-05-TTL2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx4-receive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx5-refule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx5-refule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-06-dlx5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay1-problem1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay1-problem1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay3-resolve/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay3-resolve/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay4-plugins/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-07-delay4-plugins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-08-confirm3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-09-return3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-10-alternate-exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-10-alternate-exchange/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-10-exchange1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-10-exchange1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-11-queue-properties3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-12-reliability/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-12-reliability/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-13-idempotent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-13-idempotent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit02-direct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit04-header/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq01-fanout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq01-fanout/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq01-receivemessage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbito3-topic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

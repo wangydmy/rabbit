@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: learn-delay3
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+my:
+  exchangeName: exchange.delay.3
+  queueOrderName: queue.delay.normal.order.3
+  queuePayName: queue.delay.normal.pay.3
+  queueDlxName: queue.delay.dlx.3

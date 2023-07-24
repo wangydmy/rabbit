@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Value" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-05-TTL2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-06-dlx2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-06-dlx3/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-06-dlx4/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-06-dlx5/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-06-dlx5-refule/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-07-delay1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-07-delay1-problem1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-07-delay3-resolve/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-07-delay4-plugins/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-08-confirm1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-08-confirm2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-08-confirm3/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-09-return1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-09-return2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-09-return3/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-10-exchange1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-10-alternate-exchange/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-11-queue-properties1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-11-queue-properties2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-11-queue-properties3/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-12-reliability/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-13-idempotent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/rabbit/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

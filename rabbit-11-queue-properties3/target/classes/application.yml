@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: queue.properties-learn3
+  rabbitmq:
+    host: 8.140.201.8
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+my:
+  exchangeName: exchange.queue.properties3
+  queueName: queue.properties.3
